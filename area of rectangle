@@ -1,0 +1,12 @@
+	public class rect{
+
+     public static void main(String []args) throws
+java.lang.Exception
+{
+        int length, breadth, area;
+        length=15;
+        breadth=20;
+        area=length*breadth;
+        System.out.println(area);
+    }
+}
