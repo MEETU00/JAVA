@@ -1,0 +1,13 @@
+	public class rect{
+
+     public static void main(String []args) throws
+java.lang.Exception
+{
+        int side, perimeter, area;
+        side=10;
+        area=side*side;
+        perimeter=4*side;
+        System.out.println(area);
+        System.out.println(perimeter);
+    }
+}
