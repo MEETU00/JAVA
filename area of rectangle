@@ -1,6 +1,6 @@
 public class rect{
 
-     public static void main(String []args) throws
+    public static void main(String []args) throws
 java.lang.Exception
 {
         int length, breadth, area;
