@@ -1,5 +1,7 @@
-public class interest {
-    public static void main(String args[]) {
+public class interest 
+{
+    public static void main(String args[]) 
+    {
       int interest,principle,rate,time;
       principle=1300;
       rate=12;
