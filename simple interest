@@ -1,4 +1,4 @@
-	public class interest {
+public class interest {
     public static void main(String args[]) {
       int interest,principle,rate,time;
       principle=1300;
