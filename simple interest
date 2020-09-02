@@ -1,0 +1,11 @@
+	public class interest {
+    public static void main(String args[]) {
+      int interest,principle,rate,time;
+      principle=1300;
+      rate=12;
+      time=2;
+      interest=(principle*rate*time)/100;
+      System.out.println("Interest is = " + interest);
+    }
+}
+
