@@ -13,7 +13,6 @@ public class three_number {
           System.out.println("largest no is " + b);
       }
       else 
-          System.out.println("largest no is " + c);
-       
+          System.out.println("largest no is " + c);   
     }
 }
