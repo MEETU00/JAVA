@@ -13,6 +13,6 @@ public class abc
         a=b;
         b=temp;
         System.out.print(a+ " = after swapping and " + b +" = after swapping ");
-        
-    }
+        }
 }
+hgjuytrefdszxcv bn
