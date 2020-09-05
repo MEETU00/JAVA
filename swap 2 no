@@ -1,0 +1,18 @@
+import java.util.Scanner;
+public class abc
+{
+    public static void main(String [] arg)
+    {
+        int a,b,temp;
+        Scanner sc = new Scanner(System.in);
+        System.out.print("enter a:");
+        a = sc.nextInt();
+        System.out.print("enter b:");
+        b = sc.nextInt();
+        temp=a;
+        a=b;
+        b=temp;
+        System.out.print(a+ " = after swapping and " + b +" = after swapping ");
+        
+    }
+}
